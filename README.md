@@ -7,7 +7,7 @@
  - *There are more than 100 questions solved!*
 
 
-## *🦗Platform Curso em Vídeo*
+# *🦗Platform Curso em Vídeo*
 - **🌎 World 01**
 ```bash
 # Topics:
@@ -41,7 +41,7 @@
     
     
     
-## *Platform Mentorama*
+# *Platform Mentorama*
 - **POO**
 ```bash
 # Topic:
