@@ -8,6 +8,14 @@
 
 
 ## *🦗Platform Curso em Vídeo*
+- **🌎 World 01**
+```bash
+# Topics:
+  - Handling data and doing math
+  - Using Python modules
+  - Conditions in Python(if..else)
+```
+
 
 - **🌎 World 02**
 ```bash
@@ -50,7 +58,7 @@ www.mentorama.com.br
 git clone https://github.com/GaabrielCoosta/Logical_solutions_with_python
 
 # Enter the folder
-cd pacote-download
+cd file
 
 # Choose the desired platform folder
 cd Cursoemvideo
