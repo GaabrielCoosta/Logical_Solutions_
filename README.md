@@ -8,16 +8,22 @@
 
 
 # *🦗Platform Curso em Vídeo*
-- **🌎 World 01**
+
+All exercises done during the three Python 3 courses in the Video Course (World 1, 2 and 3). The course that introduced me to the world of programming. I started it without knowing anything about the area and today I understand programming logic and algorithms, as well as how to program in Python. In total, 115 exercises were performed.
+
+# *📚Course content*
+- **🌎Python 3 - World 01**
 ```bash
 # Topics:
+  - Introduction to the World of Programming;
+  - First steps with Python
   - Handling data and doing math
   - Using Python modules
   - Conditions in Python(if..else)
 ```
 
 
-- **🌎 World 02**
+- **🌎Python 3 - World 02**
 ```bash
 # Topics:
   - Conditions (if..elif)
@@ -25,7 +31,7 @@
   - Repetitions (while)
 ```
 
-- **🌎 World 03**
+- **🌎Python 3 - World 03**
 ```bash
 # Topics:
  - Tuples
@@ -35,8 +41,15 @@
  - Modularization
  - Errors and Exceptions
 ```
+# *👍Emphasis*
+- Excellent teaching, especially for beginners;
+- Good balance between theory and practice;
+- Hill exercises to put into practice and learn more;
+- Comments on youtube where people help each other.
 
-- **Link:**
+
+
+**Link:**
    www.cursoemvideo.com.br
     
     
