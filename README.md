@@ -56,7 +56,7 @@ All exercises done during the three Python 3 courses in the Video Course (World 
     
 # *Ⓜ️ Platform Mentorama*
 - **Module 03 Object Oriented Programming (POO)**
-- 
+
 *In this module I learned the Object Oriented Programming (OOP) paradigm of Python. Paradigm widely used in the most diverse programming languages today.*
 ```bash
 # Topic:
